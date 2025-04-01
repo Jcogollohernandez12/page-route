@@ -2,7 +2,7 @@
     {
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
-        "namespace": "android_app",
+        "namespace": "co.com.nauffar.app",
         "package_name": "co.com.nauffar.app",
         "sha256_cert_fingerprints": [
           "CC:5A:E6:0C:3F:DD:9B:F4:7A:AA:19:0E:18:20:04:37:5A:4E:45:7D"
